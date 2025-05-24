@@ -410,6 +410,7 @@ footer {
     color: #996830;
     transition: ease-in 0.2s;
     cursor: pointer;
+    margin: 0;
 }
 .my-icons:hover {
     color: #2C2C2C;
